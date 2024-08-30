@@ -36,7 +36,6 @@ Tasky is a React-based todo list application that helps you organize and manage 
   npm run dev
 ```
 This will launch the development server, typically accessible at http://localhost:3000 by default. Open this URL in your browser to start using Tasky!
-## License
 
 ## Authors
 
