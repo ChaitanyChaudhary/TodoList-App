@@ -18,6 +18,7 @@ Tasky is a React-based todo list application that helps you organize and manage 
 - Add new tasks
 - Mark tasks as completed/incompleted
 - Remove tasks
+
 ## Installation
 
 1. **Clone the Repository:**
@@ -36,9 +37,6 @@ Tasky is a React-based todo list application that helps you organize and manage 
 ```
 This will launch the development server, typically accessible at http://localhost:3000 by default. Open this URL in your browser to start using Tasky!
 ## License
-
-This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License.
-
 
 ## Authors
 
